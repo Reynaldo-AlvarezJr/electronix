@@ -1,15 +1,11 @@
 
 
- For Paypal account info to order
-
 FOR ELECTRONIX APP
 
-Richard Henricks
-Richard_H@piedpipper.com
-password:111111
+To chek the Admin functionality system login with:
+
 
 admin@example.com
 password:123456
 
-Reya@14kgmail.com
-password: password
+
